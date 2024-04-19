@@ -1,6 +1,6 @@
 <?php
 
-namespace feedback_admin\validation\interfaces;
+namespace interfaces;
 
 
 interface ValidationInterface

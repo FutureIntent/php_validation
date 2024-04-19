@@ -1,6 +1,6 @@
 <?php
 
-namespace feedback_admin\validation\classes;
+namespace classes;
 
 class Rules
 {

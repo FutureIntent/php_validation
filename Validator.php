@@ -1,9 +1,9 @@
 <?php
 
-namespace feedback_admin\validation;
+namespace root;
 
-use feedback_admin\validation\classes\Validations;
-use feedback_admin\validation\classes\Rules;
+use classes\Validations;
+use classes\Rules;
 
 
 class Validator extends Validations

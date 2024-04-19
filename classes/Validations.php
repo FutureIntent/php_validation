@@ -1,10 +1,10 @@
 <?php
 
-namespace feedback_admin\validation\classes;
+namespace classes;
 
 use DateTime;
 use Exception;
-use feedback_admin\validation\interfaces\ValidationInterface;
+use interfaces\ValidationInterface;
 
 
 abstract class Validations implements ValidationInterface
